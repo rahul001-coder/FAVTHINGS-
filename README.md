@@ -1,2 +1,2 @@
 # FAVTHINGS-
-https://rahul001-coder.github.io/FAVTHINGS-/
+https://github.com/rahul001-coder/FAVTHINGS-.git
