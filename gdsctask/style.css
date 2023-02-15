@@ -1,0 +1,32 @@
+body{ background-color: aqua;
+     background-image: url(image/wallpaper2.jpg);
+    background-repeat: no-repeat;
+     background-attachment: fixed; 
+    background-size:cover;
+    border: 100px  red;; 
+}
+h1{ border: 10px solid tomato; margin:auto;
+     background-color:rgba(183, 0, 255, 0.973); color:aqua; font: size 20px;; font-family: Verdana, Geneva, Tahoma, sans-serif;  
+}
+h2{ border: 10px solid rgb(247, 105, 129); margin: auto; background-color:rgb(245, 105, 129) }
+p{border: 20px solid blue;
+     margin: 20px;
+background-color: blue; 
+
+
+}
+h3{
+     border: 20px solid rgb(27, 255, 7); margin:auto;
+     background-color:rgba(72, 255, 0, 0.973); color:rgb(0, 0, 0); font: size 20px;; font-family: Verdana, Geneva, Tahoma, sans-serif;  
+}
+p1{
+border: 10px solid rgb(0, 247, 255);
+margin:20px;
+background-color: aqua;
+}
+h4{
+background-color: rgb(11, 255, 11);
+
+
+}
+
